@@ -81,4 +81,4 @@ Reduce el tiempo para crear y mantener el CSS.
 
 8.Mapa:
 
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](blob:https://web.whatsapp.com/80fe985e-c898-4e80-bddf-7b186a12754d)
