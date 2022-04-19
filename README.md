@@ -77,4 +77,4 @@ Reduce el tiempo para crear y mantener el CSS.
 - https://openwebinars.net/blog/que-es-sass-ventajas-desventajas-y-ejemplos-de-desarrollo/
 ![image](https://user-images.githubusercontent.com/101755814/163896955-85ca1d97-0472-4497-8c33-2159ca9a648d.png)
 - https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS
-![image](https://user-images.githubusercontent.com/101755814/163896974-64419c47-da46-4123-ac8c-01fb1627fab4.png)
+[image](https://user-images.githubusercontent.com/101755814/163896974-64419c47-da46-4123-ac8c-01fb1627fab4.png)
